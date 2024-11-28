@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-28T10:27:38 IST" name="Default suite" finished-at="2024-11-28T10:28:11 IST" duration-ms="33469">
+  <suite started-at="2024-11-28T11:16:32 IST" name="Default suite" finished-at="2024-11-28T11:17:14 IST" duration-ms="41062">
     <groups>
     </groups>
-    <test started-at="2024-11-28T10:27:38 IST" name="Default test" finished-at="2024-11-28T10:28:11 IST" duration-ms="33469">
+    <test started-at="2024-11-28T11:16:32 IST" name="Default test" finished-at="2024-11-28T11:17:14 IST" duration-ms="41062">
       <class name="tests.TestHomePage">
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.TestHomePage@5d0bf09b]" started-at="2024-11-28T10:27:38 IST" name="setup" finished-at="2024-11-28T10:28:07 IST" duration-ms="29102" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.TestHomePage@5d0bf09b]" started-at="2024-11-28T11:16:32 IST" name="setup" finished-at="2024-11-28T11:17:08 IST" duration-ms="36021" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyLoginPage()[pri:0, instance:tests.TestHomePage@5d0bf09b]" started-at="2024-11-28T10:28:07 IST" name="verifyLoginPage" finished-at="2024-11-28T10:28:09 IST" duration-ms="2262" status="PASS">
+        <test-method signature="verifyLoginPage()[pri:0, instance:tests.TestHomePage@5d0bf09b]" started-at="2024-11-28T11:17:09 IST" name="verifyLoginPage" finished-at="2024-11-28T11:17:11 IST" duration-ms="2796" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginPage -->
-        <test-method signature="editAccountInformation()[pri:1, instance:tests.TestHomePage@5d0bf09b]" started-at="2024-11-28T10:28:09 IST" name="editAccountInformation" finished-at="2024-11-28T10:28:11 IST" duration-ms="2012" status="PASS">
+        <test-method signature="editAccountInformation()[pri:1, instance:tests.TestHomePage@5d0bf09b]" started-at="2024-11-28T11:17:11 IST" name="editAccountInformation" finished-at="2024-11-28T11:17:14 IST" duration-ms="2181" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- editAccountInformation -->
-        <test-method is-config="true" signature="close()[pri:0, instance:tests.TestHomePage@5d0bf09b]" started-at="2024-11-28T10:28:11 IST" name="close" finished-at="2024-11-28T10:28:11 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:tests.TestHomePage@5d0bf09b]" started-at="2024-11-28T11:17:14 IST" name="close" finished-at="2024-11-28T11:17:14 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
