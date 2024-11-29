@@ -93,7 +93,7 @@
 
 					<suiteXmlFiles>
 						<!-- TestNG suite XML files -->
-						<suiteXmlFile>RegressionSuite.xml</suiteXmlFile>
+						<suiteXmlFile>testngjenkins.xml</suiteXmlFile>
 					</suiteXmlFiles>
 
 				</configuration>
